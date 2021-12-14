@@ -2,7 +2,7 @@ const width = 600;
 const height = 550;
 const quantity = 170;
 const types = [ 'text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox' ];
-const greetings = [ '祝大家节日快乐','圣诞节快乐','每天都开开心心','祝代码顺利编译无bug','编译无bug','圣诞节快乐','祝收到圣诞老人的礼物','节日快乐','玩得开心','拒绝bug','生活愉快', '圣诞节快乐','节日快乐','祝一切顺利','节日的问候','心想事成','生活愉快','工作顺利' ];
+const greetings = ['吴心语小宝贝muaaaaaa~','祝吴心语节日快乐~','吴心语我爱你！！！！','吴心语小宝宝要开心呀~','吴心语一定可以拿下5.0~','吴心语感冒快点好起来！！！','吴心语圣诞节快乐~','吴心语收到草莓代码熊的礼物~','吴心语快乐开心~','吴心语心想事成~','吴心语学习顺利！！' ];
 
 let tree = document.querySelector( '.tree' ),
 treeRotation = 0;
